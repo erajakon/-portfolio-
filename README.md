@@ -30,5 +30,5 @@ When considering the differences between the two audiences, I utilized different
 
 The choices I made in this revision of the data visualization was to still maintain the use of the perspective of different perceptions as part of a whole through the use of a bar chart, but making it easier to discern the differences between perceptions by using a split bar chart. Through different shades of blue and more clear breakdown between the columns, I found it easier to digest in comparison to the other categories of perception. In addition to that, I reworded the language utilized to give a more accurate insight into what was measured. 
 
-## OECD Data Visualization #2 - Part 1 - General Government Debt as Total % of GDP
+## OECD Data Visualization #2 - Part 1 - General Government Debt 
 <iframe src="https://data.oecd.org/chart/5CTk" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CTk" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
