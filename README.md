@@ -54,5 +54,7 @@ I opted for a boxplot because I felt it allowed a way to give a broader picture 
 
 # Final Project
 ## Links
+
 Final Project: https://erajakon.github.io/final-project/
+
 Final Deliverable: https://carnegiemellon.shorthandstories.com/srilanka/index.html
